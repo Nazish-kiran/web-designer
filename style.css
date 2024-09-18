@@ -204,6 +204,7 @@ nav img {
   display: flex;
   align-items: center;
   gap: 20px;
+  flex-wrap: wrap;
 }
 .section2-description {
   width: 191px;
@@ -297,8 +298,8 @@ nav img {
 }
 
 @media (max-width: 768px) {
-  .html{
-    font-size: 60%;
+  html{
+    font-size: 50%;
   }
   .container-fluid{
     width: 100%;
