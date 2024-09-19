@@ -244,6 +244,7 @@ nav img {
   color: var(--star-color);
 }
 .card-btn {
+  align-items: center;
   display: flex;
   gap: 10px;
   padding: 10px 0 10px 23px;
@@ -271,7 +272,7 @@ nav img {
   padding-top: 0;
 }
 .sect3-block1,
-.sec3-block2 {
+.sec3-block2,.sec3-block3 {
   justify-content: center;
   align-items: center;
   display: flex;
@@ -304,9 +305,6 @@ nav img {
   .container-fluid{
     width: 100%;
   }
-  /* .row1,.row2,.row3,.row4{
-    flex-wrap: wrap;
-  } */
   .col {
     width: 45%;
   }
