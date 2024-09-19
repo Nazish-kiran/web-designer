@@ -197,7 +197,7 @@ nav img {
 }
 /* -----------------SECTION 1 ENDS HERE------------ */
 /* -----------------SECTION 2 STARTS HERE------------ */
-.section-2 {
+.colored{
   background-color: var(--secondary-color);
   width: 100%;
   padding: 40px;
@@ -206,7 +206,7 @@ nav img {
   gap: 20px;
   flex-wrap: wrap;
 }
-.section2-description {
+.section2-description,.section4-description {
   width: 191px;
 }
 .card {
